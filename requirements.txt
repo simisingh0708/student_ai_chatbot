@@ -1,5 +1,6 @@
 streamlit
 streamlit-mic-recorder
+faster-whisper
 openai
 tinydb
 pypdf
