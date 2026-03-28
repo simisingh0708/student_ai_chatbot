@@ -1,8 +1,11 @@
 streamlit
+streamlit-mic-recorder
 openai
 tinydb
 pypdf
 sentence-transformers
+torch
+torchvision
 faiss-cpu
 langchain
 langchain-community
